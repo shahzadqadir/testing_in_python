@@ -5,20 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2ad51a7-f06c-48a2-8c70-659d63106201" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tests/test_module1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testing.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/tests/unit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/tests/unit/blog_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/blog/tests/unit/post_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/writing_python_tests.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/blog.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/blog.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/post.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/post.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2umCnjpFfDe57qJCWKmoP9PFfMg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for post_test.PostTest.executor": "Run",
     "Python tests.Python tests in testing.py.executor": "Run",
     "Python tests.Python tests in tests.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -38,7 +51,22 @@
       <recent name="$PROJECT_DIR$/tests" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for post_test.PostTest">
+    <configuration name="Python tests for post_test.PostTest" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="testing_in_python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog/tests/unit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;post_test.PostTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python tests in tests" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="testing_in_python" />
       <option name="ENV_FILES" value="" />
@@ -56,6 +84,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for post_test.PostTest" />
         <item itemvalue="Python tests.Python tests in tests" />
       </list>
     </recent_temporary>
